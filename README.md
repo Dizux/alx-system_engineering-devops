@@ -1,0 +1,1 @@
+README file for ALX repository Project 0x00. SHell, basics
