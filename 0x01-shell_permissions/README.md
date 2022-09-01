@@ -13,3 +13,10 @@ Shell Permissions
       11-Directories: Adds execute permissions to all subdirectories for owner, group owner and all users. Doesnt change files.
       12-More directories: Creates directory called 'my_dir' with 751 permissions in wd
       13-Change group: Changes group owner of 'hello' file to group 'school'
+
+
+Advanced Tasks      
+      100-Owner and group: Changes owner to wincent and group owner to staff all files and directories in wd
+      101-Symbolic links: Changes owner and group of _hello to vincent and staff respectively
+      102-If only: Changes owner of hello file to betty under condition that guillaume owns it
+      103-Star Wars: Play Starwars IV in terminal
